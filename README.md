@@ -1,9 +1,9 @@
-# Semigod Epic (半神史诗)
+# Semigod Epic (半神叙事)
 
 > **The 6th Gen Language: Coding the Universe | 第六代语言：编译宇宙**
 
 Welcome to the source code of a new civilization paradigm.
-这里是用自然语言（中文）编译现实的起点。
+这里是用元语言（中文）编译现实的起点。
 
 ## 🚀 Mission / 使命
 To develop the **Semigod Paradigm**, where natural language becomes the ultimate interface for programming the universe.
