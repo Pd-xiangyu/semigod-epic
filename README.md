@@ -38,6 +38,8 @@ Human-on-the-Supra-Loop; Intelligence Augmentation; Demigod Paradigm; Synergisti
 
 
 
+The Demigod System: A Theoretical Framework for Cognitive and Productivity Synergistic Emergence based on Human-Supra-Loop (Vol. II: The Demigod System)
+
 
 Abstract
 This paper constructs a "Demigod System" thinking model with the Marxist worldview and methodology as its core. The model comprises ten incompressible "personality quanta." Through orderly interaction between AI, the quanta, and the Marxist philosophical core, the system achieves effective differentiation and coordination between Intelligence Augmentation (IA) and Artificial Intelligence (AI) applications. Based on this system, the paper further proposes a "Concentric Circle Model for Social Interaction." This model serves both as a product of the system's operation and as one of its underlying algorithms, capable of rapidly solving complex moral judgment problems and guiding individuals into a practice cycle of the unity of knowledge and action, characterized by low internal friction and high agency. Finally, the paper presents the system's "Minimum Runnable Quantum Set" and, through real-world cases of intelligence augmentation, validates the practical characteristics of the Demigod system, specifically its ease of use and high baseline performance.
@@ -45,7 +47,9 @@ This paper constructs a "Demigod System" thinking model with the Marxist worldvi
 Keywords
 Intelligence Augmentation; Demigod System; Marxist Philosophy; Thinking Model; Human-Machine Collaboration
 
-
+半神体系：基于“人在回路之上”的认知与生产力协同涌现理论框架——卷二：半神系统
+摘要：本文构建一套以马克思主义世界观与方法论为内核的”半神系统”思维模型。该模型包含十个不可压缩的”人格质点”，AI与质点及马哲内核有序交互，实现对智能增强与AI应用的有效区分与协调。基于此系统，本文进一步提出”同心圆处世模型”。该模型既是系统运行产物，亦作为其底层算法之一，能高速求解复杂道德判断问题，引导个体进入低内耗、高行动力的知行合一实践循环。最后，本文给出系统“最小可运行质点集”，并通过智能增强真实案例，验证了半神体系易上手、高下限的实践特性。
+关键词：智能增强；半神系统；马克思主义哲学；思维模型；人机协同
 
 
 
