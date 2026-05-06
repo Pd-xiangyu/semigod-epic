@@ -39,6 +39,14 @@ Human-on-the-Supra-Loop; Intelligence Augmentation; Demigod Paradigm; Synergisti
 
 
 
+Abstract
+This paper constructs a "Demigod System" thinking model with the Marxist worldview and methodology as its core. The model comprises ten incompressible "personality quanta." Through orderly interaction between AI, the quanta, and the Marxist philosophical core, the system achieves effective differentiation and coordination between Intelligence Augmentation (IA) and Artificial Intelligence (AI) applications. Based on this system, the paper further proposes a "Concentric Circle Model for Social Interaction." This model serves both as a product of the system's operation and as one of its underlying algorithms, capable of rapidly solving complex moral judgment problems and guiding individuals into a practice cycle of the unity of knowledge and action, characterized by low internal friction and high agency. Finally, the paper presents the system's "Minimum Runnable Quantum Set" and, through real-world cases of intelligence augmentation, validates the practical characteristics of the Demigod system, specifically its ease of use and high baseline performance.
+
+Keywords
+Intelligence Augmentation; Demigod System; Marxist Philosophy; Thinking Model; Human-Machine Collaboration
+
+
+
 
 
 
