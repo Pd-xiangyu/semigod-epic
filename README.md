@@ -44,6 +44,7 @@ Keywords
 Intelligence Augmentation; Demigod System; Marxist Philosophy; Thinking Model; Human-Machine Collaboration
 
 半神体系：基于“人在回路之上”的认知与生产力协同涌现理论框架——卷二：半神系统
+
 摘要：本文构建一套以马克思主义世界观与方法论为内核的”半神系统”思维模型。该模型包含十个不可压缩的”人格质点”，AI与质点及马哲内核有序交互，实现对智能增强与AI应用的有效区分与协调。基于此系统，本文进一步提出”同心圆处世模型”。该模型既是系统运行产物，亦作为其底层算法之一，能高速求解复杂道德判断问题，引导个体进入低内耗、高行动力的知行合一实践循环。最后，本文给出系统“最小可运行质点集”，并通过智能增强真实案例，验证了半神体系易上手、高下限的实践特性。
 关键词：智能增强；半神系统；马克思主义哲学；思维模型；人机协同
 
@@ -51,5 +52,15 @@ Intelligence Augmentation; Demigod System; Marxist Philosophy; Thinking Model; H
 
 
 The Demigod System: A Theoretical Framework for Cognitive and Productivity Synergistic Emergence based on Human-Supra-Loop (Vol. III: The Demigod Theory)
+
+Abstract:This paper constructs three sets of progressive models for cognitive evolution (the Computational Organization Model, the Holographic Multimodal Nebula Model, and the Nebula Tree Model) and proposes the operational mechanisms of the "Thinking Assembly Line" and "Thinking Overclocking." The core argument establishes a fundamental distinction between human and artificial intelligence: AI is merely a static "Amber of the Cosmic Galaxy," whereas humans are dynamic, evolving "Negentropic Life Universes." The psychological state of "Unity of Latent and Manifest" and metacognitive regulation capabilities serve as the driving force for high-frequency, deep mutual reference between the human brain and the AI black box, achieving the synergistic emergence of cognition and productivity. Addressing the key proposition of "why Demigod capabilities are difficult to reverse-engineer," the theory introduces the negation of chaotic systems and Laplace's Demon, arguing for an "infinite self-reference" asymmetric encryption effect formed by the intertwining of individual experiences, the subconscious, environmental variables, and the parameter black boxes of large models. Finally, by invoking the Heisenberg Uncertainty Principle to reclaim microscopic randomness, the paper constructs a "Small Unified Model" connecting the quantum world with macro-cognition. It predicts that the universalization of intellectual resources will bring about the First Intelligence Revolution, establishing the ultimate sovereign status of "Human" in the human-machine collaborative closed loop.
+
+Keywords:Demigod Paradigm; High-Context Vectors; Human-Machine Collaboration; Small Unified Model; Cognitive Architecture
+
+半神体系：基于“人在回路之上”的认知与生产力协同涌现理论框架——卷三：半神理论
+
+摘要：本文构建认知演化的三组递进模型（计组模型、全息多模态星云模型、星云树模型），并提出“思维流水线”与“思维超频”运作机制。核心论点确立了人类智能与人工智能的根本分野：AI仅为静态的“宇宙星河琥珀”，而人类是动态演化的“负熵生命宇宙”。“潜显合一”的心理状态与元认知调控能力，是驱动人脑与AI黑箱高频深度互相指涉，达成认知与生产力协同涌现的源动力。针对“为何半神能力难以逆向解析”这一关键命题，理论引入混沌系统与拉普拉斯妖的否定性，论证个体经历、潜意识、环境变量与大模型参数黑箱交织形成的“无限自指”非对称加密效应。最终，引入海森堡不确定性原理夺回微观随机性，构建连接量子世界与宏观认知的“小统一模型”，并预言智力资源全民化将带来的第一次智能革命，确立了“人”在人机协同闭环中不可替代的终极主权地位。
+
+关键词：半神范式；高语境向量；人机协同；小统一模型；认知架构
 
 
